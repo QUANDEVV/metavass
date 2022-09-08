@@ -24,12 +24,7 @@ const index = () => {
                 </button>
                 </div>
 
-               <div className='flex justify-center mt-8'>
-               <button type='button' className=" bg-black-600 px-2  text-lg md:text-sm rounded-md shadow-xl   active:scale-90 hover:translate-y-2 transition-all border-t-2  text-center text-white">
-                <Link href={`https://t.me/metavass`}>NFT MINTING SITE 
-                GENERATE 10K NFT COLLECTION AND SELL</Link>
-                </button>
-                </div>
+              
 
                 <div className='flex justify-center mt-8'>
                <button type='button' className=" bg-black-600 px-2  text-lg md:text-sm rounded-md   shadow-blue-300 active:scale-90 hover:translate-y-2 transition-all border-t-2  text-white ">
@@ -60,6 +55,13 @@ const index = () => {
                <button type='button' className=" bg-black-600 px-2  text-lg md:text-sm rounded-md shadow-xl   active:scale-90 hover:translate-y-2 transition-all border-t-2 text-white ">
                 <Link href={`https://t.me/metavass`}>CRYPTO COIN DEVELOPMENT
                 </Link>
+                </button>
+                </div>
+
+                <div className='flex justify-center mt-8'>
+               <button type='button' className=" bg-black-600 px-2  text-lg md:text-sm rounded-md shadow-xl   active:scale-90 hover:translate-y-2 transition-all border-t-2  text-center text-white">
+                <Link href={`https://t.me/metavass`}>NFT MINTING SITE 
+                GENERATE 10K NFT COLLECTION AND SELL</Link>
                 </button>
                 </div>
 
